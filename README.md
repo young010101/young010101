@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🍉 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,lua,html,css,js,fastapi,flask,pytorch)](https://skillicons.dev)
+
+### 🔨 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,cmake,anaconda,github,githubactions,jenkins,figma,aws,azure,cloudflare,vercel,heroku)](https://skillicons.dev)
+
 [![Cheng Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=young010101)](https://github.com/young010101)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=young010101&repo=OpenHands)](https://github.com/young010101/OpenHands)
