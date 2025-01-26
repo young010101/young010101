@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![X (Twitter)](https://img.shields.io/badge/-young010101-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/Young010101)
+[![email](https://img.shields.io/badge/-yc5@tju.edu.cn-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:yc5@tju.edu.cn)
+
 <!--
 **young010101/young010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
